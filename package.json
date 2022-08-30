@@ -1,0 +1,24 @@
+{
+  "name": "two-factor-evolve",
+  "version": "1.0.0",
+  "description": "(TFE-2FA) Is a open source two factor authenticator for the browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nolant108/Two-Factor-Evolve.git"
+  },
+  "keywords": [],
+  "author": "Nolant108",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nolant108/Two-Factor-Evolve/issues"
+  },
+  "homepage": "https://github.com/nolant108/Two-Factor-Evolve#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security"
+  }
+}
